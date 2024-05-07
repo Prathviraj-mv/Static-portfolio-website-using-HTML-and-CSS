@@ -1,11 +1,11 @@
-html and css
+html and Css
 
-strictly DESKTOP only
+Strictly DESKTOP only
 
-website link = https://prathiba01.netlify.app/
+Website link = https://prathiba01.netlify.app/
 
 
-# screenshot
+# Screenshot
 <p>
   <img width=80% src ="images/website_demo.png">
 </p>
